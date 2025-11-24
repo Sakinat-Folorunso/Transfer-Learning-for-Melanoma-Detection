@@ -2,8 +2,6 @@
 
 This repository contains the Python and Jupyter Notebook code used for a skin cancer detection study leveraging transfer learning techniques.
 
-This is the link to the dataset: https://www.kaggle.com/datasets/bilalakgz/brain-tumor-mri-dataset
-
 ### Project Overview
 
 The core objective of this project is to compare the performance of different Convolutional Neural Network (CNN) architectures, including a custom-built CNN and several pre-trained models, for classifying melanoma images.
@@ -36,6 +34,8 @@ The best performance was achieved by the **ResNet50** transfer learning model, w
 * `LICENSE`: Licensing information for the code (MIT License).
 
 ### Data Source
+
+This is the link to the dataset: https://www.kaggle.com/datasets/bilalakgz/brain-tumor-mri-dataset
 
 The models were trained using the "Melanoma Skin Cancer Dataset of 10000 Images."
 
